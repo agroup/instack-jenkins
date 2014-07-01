@@ -7,5 +7,13 @@ config:
   updated_rpms_list:
       - 'https://kojipkgs.fedoraproject.org//packages/openstack-tripleo-heat-templates/0.4.4/3.fc21/noarch/openstack-tripleo-heat-templates-0.4.4-3.fc21.noarch.rpm'
       - 'https://kojipkgs.fedoraproject.org//packages/openstack-tripleo-image-elements/0.6.5/5.fc21/noarch/openstack-tripleo-image-elements-0.6.5-5.fc21.noarch.rpm'
+      - 'https://kojipkgs.fedoraproject.org//packages/selinux-policy/3.12.1/175.fc20/noarch/selinux-policy-3.12.1-175.fc20.noarch.rpm'
+      - 'https://kojipkgs.fedoraproject.org//packages/selinux-policy/3.12.1/175.fc20/noarch/selinux-policy-targeted-3.12.1-175.fc20.noarch.rpm'
+      - 'https://kojipkgs.fedoraproject.org//packages/openstack-swift/1.13.1/4.fc21/noarch/openstack-swift-1.13.1-4.fc21.noarch.rpm'
+      - 'https://kojipkgs.fedoraproject.org//packages/openstack-swift/1.13.1/4.fc21/noarch/openstack-swift-account-1.13.1-4.fc21.noarch.rpm'
+      - 'https://kojipkgs.fedoraproject.org//packages/openstack-swift/1.13.1/4.fc21/noarch/openstack-swift-container-1.13.1-4.fc21.noarch.rpm'
+      - 'https://kojipkgs.fedoraproject.org//packages/openstack-swift/1.13.1/4.fc21/noarch/openstack-swift-object-1.13.1-4.fc21.noarch.rpm'
+      - 'https://kojipkgs.fedoraproject.org//packages/openstack-swift/1.13.1/4.fc21/noarch/openstack-swift-proxy-1.13.1-4.fc21.noarch.rpm'
+      - 'https://kojipkgs.fedoraproject.org//packages/openstack-swift/1.13.1/4.fc21/noarch/openstack-swift-doc-1.13.1-4.fc21.noarch.rpm'
   custom_instack_images: 'http://file.rdu.redhat.com/~jslagle/proposed-images/'
 
