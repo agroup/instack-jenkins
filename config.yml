@@ -1,5 +1,5 @@
 installer:
-  custom_repo: 'http://repos.fedorapeople.org/repos/openstack/openstack-icehouse/rdo-release-icehouse-4.noarch.rpm'
+  custom_repo: 'http://rdo.fedorapeople.org/openstack-icehouse/rdo-release-icehouse.rpm'
   instack_undercloud_rpm: 'https://kojipkgs.fedoraproject.org//packages/instack-undercloud/1.0.3/1.fc22/noarch/instack-undercloud-1.0.3-1.fc22.noarch.rpm'
   updated_rpms_list:
       - 'https://kojipkgs.fedoraproject.org//packages/instack-undercloud/1.0.3/1.fc22/noarch/instack-undercloud-1.0.3-1.fc22.noarch.rpm'
