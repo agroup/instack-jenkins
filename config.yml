@@ -5,4 +5,5 @@ installer:
       - 'https://kojipkgs.fedoraproject.org//packages/instack-undercloud/1.0.3/1.fc22/noarch/instack-undercloud-1.0.3-1.fc22.noarch.rpm'
       - 'https://kojipkgs.fedoraproject.org//packages/diskimage-builder/0.1.15/3.fc20/noarch/diskimage-builder-0.1.15-3.fc20.noarch.rpm'
       - 'https://kojipkgs.fedoraproject.org//packages/openstack-tripleo-image-elements/0.6.5/7.fc21/noarch/openstack-tripleo-image-elements-0.6.5-7.fc21.noarch.rpm'
+      - 'https://kojipkgs.fedoraproject.org//packages/openstack-tripleo-heat-templates/0.4.4/3.fc21/noarch/openstack-tripleo-heat-templates-0.4.4-3.fc21.noarch.rpm'
   custom_instack_images: 'http://file.rdu.redhat.com/~jslagle/tripleo-images-rdo-icehouse-selinux'
